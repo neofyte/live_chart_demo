@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+{% load bootstrap_toolkit %}
+<html lang="zh-CN">
+<head>
+<title>Gantz |
+	{% block title %}{% endblock %}
+</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	{% bootstrap_stylesheet_tag %}
+	{% block css%}{% endblock %}
+	{% bootstrap_javascript_tag %}
+</head>
+
+<body>
+	
+{% block content %}
+{% endblock %}
+
+
+</body>
+</html>
