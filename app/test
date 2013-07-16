@@ -1,0 +1,2 @@
+
+print( '''select top 1 * from {0} order by id desc'''.format('tablename') )
