@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Live Chart Demo
 ===============
 
@@ -81,3 +82,9 @@ What follows are the features to implement:
 
 
 
+=======
+live-chart-python
+=================
+
+height detection
+>>>>>>> 2444afc9fd6cf72e9ff2ac190207ace364e5d16c
